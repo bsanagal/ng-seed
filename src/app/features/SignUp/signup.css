@@ -1,0 +1,44 @@
+body{
+  width: 100%;
+  min-height: 700px;
+  background-image: url(../images/background.jpg);
+
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: top center !important;
+  background-repeat: no-repeat !important;
+  background-attachment: fixed;
+  color: #286090;
+  margin: auto;
+}
+.container-custom{
+
+  margin-top: 5%;
+  align-content: center;
+}
+.input-custom{
+  width: 150%;
+}
+
+.label-custom{
+  margin-left: 7%;
+}
+
+.inline-custom{
+  margin-top: 1%;
+}
+.signuphr{
+  height: 12px;
+  border: 0;
+  box-shadow: inset 0 12px 12px -12px #286090;
+  width: 30%;  }
+.signuph1{
+  font-family: 'Arvo', serif;
+  color: #286090;
+}
+.signuptitle{
+  margin-left: 1.6%;
+}
+
+
